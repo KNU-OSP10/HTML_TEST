@@ -1,4 +1,29 @@
-h1{
-    text-align: center;
-    font-size: 70px;
+html,body{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
 }
+h1{
+    position: absolute ;
+    top: 2px;
+    text-align: center;
+    font-size: 50px;
+}
+#main{
+    text-align: center;
+    font-size: 30px;
+}
+a:link {
+    color : whitesmoke;
+  }
+  a:visited {
+    color : navy;
+  }
+  a:hover {
+    color : royalblue;
+  }
+  a:active {
+    color : green
+  }
