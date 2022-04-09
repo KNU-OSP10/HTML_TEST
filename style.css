@@ -16,10 +16,10 @@ h1{
     font-size: 30px;
 }
 a:link {
-    color : whitesmoke;
+    color : navy;
   }
   a:visited {
-    color : navy;
+    color : brown;
   }
   a:hover {
     color : royalblue;
